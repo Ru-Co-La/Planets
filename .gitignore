@@ -1,0 +1,5 @@
+*.dat
+/results
+
+#Ignore Ipython checkpoints dir
+.ipynb_checkpoints/
